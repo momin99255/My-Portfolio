@@ -100,7 +100,7 @@ html {
 
 /*about section*/
 .about{
-    background-color: #f9f9f9;
+    background-color: #fff;
 }
 .about h2 , .portfolio h2 , .contact h2{
     font-size: 35px;
@@ -306,7 +306,7 @@ html {
 /* Contact Section Main Layout */
 .contact {
     padding: 80px 10%;
-    background-color: #fff;
+    background-color: #f9f9f9;
 }
 
 .contact-wrapper {
